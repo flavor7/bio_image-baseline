@@ -13,5 +13,9 @@
 [1]金旭,文可,吕国锋,等.深度学习在组织病理学中的应用综述[J].中国图象图形学报,2020,25(10):1982-1993.
 ![image](https://github.com/flavor7/bio_image-baseline/assets/150929319/6d1bca2a-41e0-4e8e-95b5-746b29db1618)
 
+（4）知乎调研
+https://zhuanlan.zhihu.com/p/682531457
+![Uploading image.png…]()
+
 
 2.调研近期发布工作，归纳公开数据集，以数据集为索引列出项目清单

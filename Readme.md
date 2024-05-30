@@ -16,7 +16,9 @@
 （4）知乎调研
 https://zhuanlan.zhihu.com/p/682531457
 
-![Uploading 屏幕截图 2024-05-30 191250.png…]()
+
+
+![屏幕截图 2024-05-30 191250](https://github.com/flavor7/bio_image-baseline/assets/150929319/9c583491-2bb3-4a94-ac0a-4cbfcea6f098)
 
 
 
